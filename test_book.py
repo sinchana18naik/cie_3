@@ -2,7 +2,7 @@ from book import book_details
 
 def test_book_details():
     excepted_output =(
-        "book_id: p101\n"
+        "book_id: 101\n"
         "title: maths\n"
         "author: ashalatha\n"
         "year_of_publication: 1998"

@@ -7,7 +7,7 @@ def book_details(id,title,author,year):
             f"year_of_publication: {year}"
         )
 if __name__ == "__main__" :
-        book_id= "p101"
+        book_id= 101
         title= "maths"
         author= "ashalatha"
         year= 1998
