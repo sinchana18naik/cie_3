@@ -7,4 +7,4 @@ def test_book_details():
         "author: ashalatha\n"
         "year_of_publication: 1998"
     )
-    assert book_details("p101" , "maths", "ashalatha" ,1998) == excepted_output
+    assert book_details(101 , "maths", "ashalatha" ,1998) == excepted_output
